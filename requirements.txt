@@ -7,3 +7,5 @@ gunicorn
 wordcloud
 fuzzywuzzy
 inflect
+flask-cors
+flask
