@@ -3,6 +3,7 @@ praw
 pandas
 altair
 matplotlib
+gunicorn
 wordcloud
 fuzzywuzzy
 inflect
